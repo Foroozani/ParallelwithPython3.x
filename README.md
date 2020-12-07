@@ -4,3 +4,9 @@
 
 
 High-Performance Computing with Python 3.x
+
+- Parallel programing with Python using multiprocessing and multithreading
+- Optimizing Python Code using Cython
+- Speeding up your python code using Numba
+- Distributed programing using Dask 
+
