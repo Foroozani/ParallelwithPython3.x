@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://www.python.org/)
 
-Some advance note on Pyton:
+My note:
 
 ### Dynamic typing vs Static typing
 
@@ -16,7 +16,8 @@ The variable` my_var` is purely a reference to a string object with value "hello
 ```python
 my_var = 10
 ```
-The variable `my_var` is now pointing to an integer object with value 10.
+The variable `my_var` is now pointing to an integer object with value 10. We can use the built-in `type()` function to determine the type of the object currently referenced by a variable. Instead, when we call `type(my_var)` Python looks up the object `my_var` is referencing (pointing to), and returns the type of the object at that memory location.
+
 
 
 
