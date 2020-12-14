@@ -11,7 +11,7 @@ Some languages (Java, C++, Swift) are **statically** typed. Once the variable ty
 ```python
 my_var = ‘hello’
 ```
-The variable` my_var` is purely a reference to a string object with value hello. No type is “attached” to `my_var`. 
+The variable` my_var` is purely a reference to a string object with value "hello". No type is “attached” to `my_var`. 
 
 ```python
 my_var = 10
