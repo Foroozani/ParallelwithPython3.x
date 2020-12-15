@@ -18,7 +18,7 @@ my_var = 10
 ```
 The variable `my_var` is now pointing to an integer object with value 10. We can use the built-in `type()` function to determine the type of the object currently referenced by a variable. Instead, when we call `type(my_var)` Python looks up the object `my_var` is referencing (pointing to), and returns the type of the object at that memory location.
 
-
+The term shared reference is the concept of two variables referencing the same object in memory (i.e. having the same memory address). 
 
 
 ---
