@@ -22,6 +22,8 @@ The term shared reference is the concept of two variables referencing the same o
 
 ![](https://github.com/Foroozani/ParallelwithPython3.x/blob/main/memory.png)
 
+When working with mutable objects we have to be more careful, With mutable objects, the Python memory manager will never create shared references.
+
 ---
 High-Performance Computing with Python 3.x
 
