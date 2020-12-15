@@ -20,6 +20,7 @@ The variable `my_var` is now pointing to an integer object with value 10. We can
 
 The term shared reference is the concept of two variables referencing the same object in memory (i.e. having the same memory address). 
 
+![](https://github.com/Foroozani/ParallelwithPython3.x/blob/main/memory.png)
 
 ---
 High-Performance Computing with Python 3.x
