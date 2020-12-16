@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://www.python.org/)
 
-Deep dive in to Python, My note:
+Behind the scence of Python presentaion, rather personal note:
 
 ### Dynamic typing vs Static typing
 
