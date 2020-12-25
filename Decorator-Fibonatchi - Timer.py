@@ -3,7 +3,7 @@
 
 # ### Decorators Application (Timing)
 
-# Here we go back to an example we have seen in the past - timing how long it takes to run a certain function.
+# timing how long it takes to run a certain function.
 
 def timed(fn):
     from time import perf_counter
@@ -145,5 +145,3 @@ fib_reduce(350)
 
 
 # Even though the recursive algorithm is by far the easiest to understand, it is also the slowest.
-
-
